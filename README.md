@@ -5,12 +5,48 @@
 </h1>
 
 
-### An early-career data scientist passionate about machine learning and building full-stack data pipelines.
+### An early-career data scientist passionate about machine learning and building full-stack data pipelines for social understanding.
 ### 🔭 I’m currently working on 📊 Political Economy Research 🧠 Network Analysis 🧰 Kaggle ML Competitions    
 ### 🌱 I’m currently learning Retrieval Augmented Generation (LLMs) and Deep Learning Architectures
 
+### 🔍 Seeking a challenging role in data science to expand my skill-set and gain experience
+
+## Portfolio
+
+### 📈 **[Data Science Portfolio](https://github.com/yourusername/data-science-portfolio)**
+
+This portfolio showcases selected projects from my MSc in Data Science, including applied work in machine learning, causality, statistics, programming and visualization using real-world data.
+
+### 📈 **[Research Officer](https://github.com/yourusername/research-officer)**
+
+Selected projects completed as a research officer in international political economy at the London School of Economics.
+
+## Featured Projects 🌐
+
+#### **[Relational Event Modelling for Online Networks](https://github.com/yourusername/research-officer)**
+A novel method for measuring social interactions in dynamic online networks, building off original research completed for my MSc Dissertation.
+
+#### **[Project Janice - RAG Powered TTS AI Briefer](https://github.com/yourusername/research-officer)**
+AI briefing application that uses RAG to deliver targeted information from a large set of personal documents, deploying a full-stack data pipeline. Open to collaboration!
+
+<h3 align="center">📜 Certificates</h3>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/5917b3f4-5ed9-4a10-94cc-6083177f0573" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure Fundamentals" width="100"/>
+  </a>
+</p>
+
 <br>
 
+<h3 align="center">🛠️ Languages and Tools</h3>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,pytorch,scikitlearn,latex,postgres,git,vscode,azure,gcp" />
+</p>
+<hr>
+
+<h3 align="center">📫 My Platforms</h3>
 <div align="center">
   <a href="ryanhrousseau@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,43 +63,6 @@
 </div>
 
 <hr>
-
-## 🛠️ Languages and Tools
-
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,pytorch,scikitlearn,latex,postgres,git,vscode,azure,gcp" />
-</p>
-<hr>
-
-## Portfolio
-
-### 📈 **[Data Science Portfolio](https://github.com/yourusername/data-science-portfolio)**
-
-This portfolio showcases selected projects from my MSc in Data Science, including applied work in machine learning, causality, statistics, programming and visualization using real-world data.
-
-### 📈 **[Research Officer](https://github.com/yourusername/research-officer)**
-
-Selected projects completed as a research officer in international political economy at the London School of Economics.
-
-## Projects 🌐
-
-#### **[MSc Dissertation](https://github.com/yourusername/research-officer)**
-A novel method for measuring social interactions in dynamic online networks.
-
-#### **[Project Janice - RAG Powered TTS AI Briefer](https://github.com/yourusername/research-officer)**
-AI briefing that uses RAG to deliver targeted information from a large set of personal documents, deploying a full-stack data pipeline. 
-
-### 🧾Certificates
-
-<p align="left">
-  <a href="https://www.credly.com/badges/example1" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure Fundamentals" width="100"/>
-  </a>
-</p>
-
-
-- 📜 [Microsoft Certified: Azure AI Fundamentals]([https://www.credly.com/badges/example1](https://www.credly.com/badges/5917b3f4-5ed9-4a10-94cc-6083177f0573))
 
 <!--
 **Ry-Rousseau/Ry-Rousseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
