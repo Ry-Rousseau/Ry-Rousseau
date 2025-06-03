@@ -7,7 +7,6 @@
 
 ### An early-career data scientist passionate about machine learning and building full-stack data pipelines.
 ### 🔭 I’m currently working on 📊 Political Economy Research 🧠 Network Analysis 🧰 Kaggle ML Competitions    
-### 🔍 Passionate about uncovering insights from messy data  
 ### 🌱 I’m currently learning Retrieval Augmented Generation (LLMs) and Deep Learning Architectures
 
 <br>
@@ -37,7 +36,34 @@
 </p>
 <hr>
 
-### Here are my ongoing and past projects 📚
+## Portfolio
+
+### 📈 **[Data Science Portfolio](https://github.com/yourusername/data-science-portfolio)**
+
+This portfolio showcases selected projects from my MSc in Data Science, including applied work in machine learning, causality, statistics, programming and visualization using real-world data.
+
+### 📈 **[Research Officer](https://github.com/yourusername/research-officer)**
+
+Selected projects completed as a research officer in international political economy at the London School of Economics.
+
+## Projects 🌐
+
+#### **[MSc Dissertation](https://github.com/yourusername/research-officer)**
+A novel method for measuring social interactions in dynamic online networks.
+
+#### **[Project Janice - RAG Powered TTS AI Briefer](https://github.com/yourusername/research-officer)**
+AI briefing that uses RAG to deliver targeted information from a large set of personal documents, deploying a full-stack data pipeline. 
+
+### 🧾Certificates
+
+<p align="left">
+  <a href="https://www.credly.com/badges/example1" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure Fundamentals" width="100"/>
+  </a>
+</p>
+
+
+- 📜 [Microsoft Certified: Azure AI Fundamentals]([https://www.credly.com/badges/example1](https://www.credly.com/badges/5917b3f4-5ed9-4a10-94cc-6083177f0573))
 
 <!--
 **Ry-Rousseau/Ry-Rousseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
