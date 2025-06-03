@@ -1,4 +1,9 @@
+<img src="https://github.com/{Ry-Rousseau}/{Ry-Rousseau}/blob/main/title_banner.png" alt="title_banner">
+
+
 ## Hi there 👋
+
+
 
 <!--
 **Ry-Rousseau/Ry-Rousseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
