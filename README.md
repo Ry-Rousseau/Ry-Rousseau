@@ -13,11 +13,11 @@
 
 ## Portfolio
 
-### 📈 **[Data Science Portfolio](https://github.com/yourusername/data-science-portfolio)**
+### 📈 **[Data Science Portfolio](https://github.com/ry-rousseau/ds-portfolio)**
 
 This portfolio showcases selected projects from my MSc in Data Science, including applied work in machine learning, causality, statistics, programming and visualization using real-world data.
 
-### 📈 **[Research Officer](https://github.com/yourusername/research-officer)**
+### 📈 **[Research Officer](https://github.com/ry-rousseau/academic-research)**
 
 Selected projects completed as a research officer in international political economy at the London School of Economics.
 
