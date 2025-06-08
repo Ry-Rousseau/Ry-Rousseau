@@ -1,33 +1,22 @@
 <img src="https://github.com/Ry-Rousseau/Ry-Rousseau/blob/main/title_banner.png" alt="title_banner">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito+Sans&size=45&center=true&vCenter=true&width=700&height=80&color=2C2C2C&duration=4000&lines=Welcome+!+👋;+I'm+Ryan+Rousseau;" />
-</h1>
+Hi there, I'm Ryan. Data scientist with expertise in computational social science. That means I use data science approaches to model complex social phenomena. 
 
+* Creating end-to-end data pipelines that adapt to real-world complexities
+* Generating technical reports with insightful visualizations
+* Developing machine learning models to solve business challenges 
 
-### An early-career data scientist passionate about machine learning and building full-stack data pipelines for social understanding.
-### 🔭 I’m currently working on 📊 Political Economy Research 🧠 Network Analysis 🧰 Kaggle ML Competitions    
-### 🌱 I’m currently learning Retrieval Augmented Generation (LLMs) and Deep Learning Architectures
+### 📚 Projects
+Welcome to my portfolio, where I showcase my **[projects](https://github.com/ry-rousseau/portfolio-guide)**.
 
-### 🔍 Seeking a challenging role in data science to expand my skill-set and gain experience
+### ⚒️ Tools
+* Language: R, Python, SQL
+* Cloud: GCP, Azure
+* Visualization: Power BI, Looker Studio, Streamlit
+* Analysis: Tidyverse, Pandas, Tensorflow, Matplotlib, Scikit-learn
 
-## Portfolio
-
-### 📈 **[Data Science Portfolio](https://github.com/ry-rousseau/ds-portfolio)**
-
-This portfolio showcases selected projects from my MSc in Data Science, including applied work in machine learning, causality, statistics, programming and visualization using real-world data.
-
-### 📈 **[Research Officer](https://github.com/ry-rousseau/academic-research)**
-
-Selected projects completed as a research officer in international political economy at the London School of Economics.
-
-## Featured Projects 🌐
-
-#### **[Relational Event Modelling for Online Networks](https://github.com/yourusername/research-officer)**
-A novel method for measuring social interactions in dynamic online networks, building off original research completed for my MSc Dissertation.
-
-#### **[Project Janice - RAG Powered TTS AI Briefer](https://github.com/yourusername/research-officer)**
-AI briefing application that uses RAG to deliver targeted information from a large set of personal documents, deploying a full-stack data pipeline. Open to collaboration!
+### 🔎 About Me
+I'm currently working as a research officer in international policial economy at the London School of Economics, where I develop quantitative methods for causal inference. Seeking a challenging role in data science to advance my skills.
 
 <h3 align="center">📜 Certificates</h3>
 
