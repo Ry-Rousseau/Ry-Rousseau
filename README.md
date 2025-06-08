@@ -1,4 +1,4 @@
-<img src="https://github.com/Ry-Rousseau/Ry-Rousseau/blob/main/title_banner.png" alt="title_banner">
+![banner_title](https://github.com/user-attachments/assets/6edbf31d-f178-4be5-b9f7-2f99a39c4bf1)
 
 Hi there, I'm Ryan. Data scientist with expertise in computational social science. That means I use data science approaches to model complex social phenomena. 
 
