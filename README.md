@@ -1,4 +1,4 @@
-![banner_title](https://github.com/user-attachments/assets/6edbf31d-f178-4be5-b9f7-2f99a39c4bf1)
+![banner_title](https://github.com/user-attachments/assets/c7a678be-2307-4d54-9b43-3b4fbdf783f7)
 
 Hi there, I'm Ryan. Data scientist with expertise in computational social science. That means I use data science approaches to model complex social phenomena. 
 
