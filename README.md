@@ -7,7 +7,7 @@ Hi there, I'm Ryan. A data scientist with expertise in computational social scie
 * Developing machine learning models to solve business challenges 
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my **[projects](https://github.com/ry-rousseau/portfolio-guide)**.
+Welcome to my portfolio, where I showcase my **[projects](https://github.com/Ry-Rousseau/portfolio-guide/blob/main/README.md)**.
 
 ### ⚒️ Tools
 * Language: R, Python, SQL
