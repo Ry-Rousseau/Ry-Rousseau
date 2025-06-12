@@ -2,28 +2,12 @@
 
 Hi there, I'm Ryan. A data scientist with expertise in computational social science. I use data science approaches to model complex social phenomena. I'm currently working as a research officer in international political economy at the London School of Economics, where I develop quantitative methods for causal inference. Seeking a challenging role in data science to advance my skills.
 
-* Creating end-to-end data pipelines that adapt to real-world complexities
-* Generating technical reports with insightful visualizations
-* Developing machine learning models to solve business challenges 
+* Creating end-to-end machine-learning pipelines for real-world problems
+* Communicating findings with insightful visualizations
+* Using artifical intelligence to unlock new data science capabilities
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my **[projects](https://github.com/Ry-Rousseau/portfolio-guide/blob/main/README.md)**.
-
-### ⚒️ Tools
-* Language: R, Python, SQL
-* Cloud: GCP, Azure
-* Visualization: Power BI, Looker Studio, Streamlit
-* Analysis: Tidyverse, Pandas, Tensorflow, Matplotlib, Scikit-learn
-
-<h3 align="center">📜 Certificates</h3>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/5917b3f4-5ed9-4a10-94cc-6083177f0573" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Azure Fundamentals" width="100"/>
-  </a>
-</p>
-
-<br>
+Welcome to my portfolio, where I showcase my **[projects](https://github.com/Ry-Rousseau/ds-portfolio)**.
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <br>
