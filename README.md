@@ -1,6 +1,6 @@
 ![banner_title](https://github.com/user-attachments/assets/c7a678be-2307-4d54-9b43-3b4fbdf783f7)
 
-Hi there, I'm Ryan. A data scientist with expertise in computational social science. I use data science approaches to model complex social phenomena. I'm currently working as a research officer in international political economy at the London School of Economics, where I develop quantitative methods for causal inference. Seeking a challenging role in data science to advance my skills.
+Hi there, I'm Ryan. A data scientist with expertise in computational social science. I use data science approaches to model complex social and economic phenomena. I'm currently working as a research officer in international political economy at the London School of Economics, where I develop pioneering research in the field. Seeking a challenging role in data science to advance my skills.
 
 * Creating end-to-end machine-learning pipelines for real-world problems
 * Communicating findings with insightful visualizations
