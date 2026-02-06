@@ -2,7 +2,7 @@
 
 Hi there, I'm Ryan. A data scientist passionate about computational social science. I specialize in building systems for understanding social and economic systems, ranging from predictive modelling to causal inference, often involving a variety of social science indicators. I also build hobby projects which revolve around raspberry-pi, localized data use-cases and lightweight LLMs. 
 
-It's an exciting time to be alive. The joy of building and learning has never been stronger. Let's make it useful, for all of us, together. 
+It's an exciting time to be alive. Let's make it useful. 
 
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my **[projects](https://github.com/Ry-Rousseau/ds-portfolio)**.
