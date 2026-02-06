@@ -1,6 +1,8 @@
 ![banner_title](https://github.com/user-attachments/assets/c7a678be-2307-4d54-9b43-3b4fbdf783f7)
 
-Hi there, I'm Ryan. A data scientist passionate about computational social science. I specialize in building predictive models, conducting statistical analysis, and creating data-driven solutions for challenging business and research problems. Currently working as a Research Officer at the London School of Economics, where I develop data pipelines, analytics for political economy papers. Seeking opportunities to apply my analytical expertise in dynamic, data-driven environments.
+Hi there, I'm Ryan. A data scientist passionate about computational social science. I specialize in building systems for understanding social and economic systems, ranging from predictive modelling to causal inference, often involving a variety of social science indicators. I also build hobby projects which revolve around raspberry-pi, localized data use-cases and lightweight LLMs. 
+
+It's an exciting time to be alive. The joy of building and learning has never been stronger. Let's make it useful, for all of us, together. 
 
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my **[projects](https://github.com/Ry-Rousseau/ds-portfolio)**.
